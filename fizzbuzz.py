@@ -1,0 +1,1 @@
+print(["FizzBuzz" if i%15<1 else "buzz" if i%5<1 else "fizz" if i%3<1 else i for i in range(1, 101)])
